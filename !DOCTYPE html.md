@@ -392,9 +392,9 @@ footer {
 
 &nbsp;   <div class="contact-box">
 
-&nbsp;       📞 Phone: +91 XXXXX XXXXX<br><br>
+&nbsp;       📞 Phone: +91 9718449305<br><br>
 
-&nbsp;       📧 Email: your@email.com<br><br>
+&nbsp;       📧 Email:dimple123ak@gmail.com<br><br>
 
 &nbsp;       📍 Location: Your City, Country
 
